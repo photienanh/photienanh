@@ -18,16 +18,28 @@ I'm Phó Viết Tiến Anh, born in 2004. I graduated with a Bachelor's degree i
 
 <p align="center">
   <a href="https://github.com/photienanh/TradingAgents-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=photienanh&repo=TradingAgents-System&theme=tokyonight" width="49%" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=photienanh&repo=TradingAgents-System&theme=dark&description_lines_count=3">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=photienanh&repo=TradingAgents-System&theme=default&description_lines_count=3">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=photienanh&repo=TradingAgents-System&theme=default&description_lines_count=3" width="49%" />
+    </picture>
   </a>
   <a href="https://github.com/photienanh/Vietnamese-Sign-Language-Recognition">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=photienanh&repo=Vietnamese-Sign-Language-Recognition&theme=tokyonight" width="49%" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=photienanh&repo=Vietnamese-Sign-Language-Recognition&theme=dark&description_lines_count=3">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=photienanh&repo=Vietnamese-Sign-Language-Recognition&theme=default&description_lines_count=3">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=photienanh&repo=Vietnamese-Sign-Language-Recognition&theme=default&description_lines_count=3" width="49%" />
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/photienanh/UniAdmission-ChatBot">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=photienanh&repo=UniAdmission-ChatBot&theme=dark&description_lines_count=3">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=photienanh&repo=UniAdmission-ChatBot&theme=default&description_lines_count=3">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=photienanh&repo=UniAdmission-ChatBot&theme=default&description_lines_count=3" width="49%" />
+    </picture>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/photienanh/UniAdmission-ChatBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=photienanh&repo=UniAdmission-ChatBot&theme=tokyonight" width="49%" />
-  </a>
-</p>
 
